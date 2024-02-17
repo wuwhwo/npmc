@@ -1,0 +1,15 @@
+{
+  "name": "npmc",
+  "version": "1.0.0",
+  "description": "本地npm包副本安装",
+  "bin": {
+    "npmc": "bin/npmc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yilice",
+  "license": "ISC",
+  "type": "module"
+}
